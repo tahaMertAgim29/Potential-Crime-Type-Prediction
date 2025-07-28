@@ -37,8 +37,8 @@ Datasets have been taken from Kaggle
 * Los Angeles Crime Dataset has been used
 * Building Summary (Daily) has been made
 * Time Series Optimization has been made (Which window size is the best to be chosen)
-* Rare Label Filtering has been made (by Min-Max count)
-* 5 Different Models have been used
+* Rare Label Filtering has been made (by Min-Max count, For RNN we looked num of classes)
+* 5 Different Models have been used (For RNN we used LSTM)
 * Outputs
 
 
@@ -52,8 +52,8 @@ Datasets have been taken from Kaggle
 * Vancouver Crime Dataset has been used
 * Building Summary (Daily) has been made
 * Time Series Optimization has been made(Which window size is the best to be chosen)
-* Rare Label Filtering (by Percentile)
-* 5 Different Models have been used
+* Rare Label Filtering (by Percentile for Traditional MLs, For RNN we looked num of classes)
+* 5 Different Models have been used (For RNN we used LSTM)
 * Outputs
 
 
@@ -92,6 +92,7 @@ Datasets have been taken from Kaggle
 * Matplotlib
 * Seaborn
 * XGBoost (For XGBoost model)
+* Torch (For Method_2)
 
 
 

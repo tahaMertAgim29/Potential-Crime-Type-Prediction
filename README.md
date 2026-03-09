@@ -101,7 +101,9 @@ Datasets have been taken from Kaggle
 
 ## **Platform and Language**
 
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=fff) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=fff) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=fff) ![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=fff)
+
+
 
 
 

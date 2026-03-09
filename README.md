@@ -1,4 +1,7 @@
-**1.Project Topic: Potential Crime Type Prediction**
+# Potential Crime Type Prediction Project
+
+
+## **1.Project Topic: Potential Crime Type Prediction**
 
 
 
@@ -6,7 +9,7 @@ In this project; by using past crime information, we're predicting potential cri
 
 
 
-**2.Datasets**
+## **2.Datasets**
 
 
 
@@ -26,7 +29,7 @@ Datasets have been taken from Kaggle
 
 
 
-**3.Files**
+## **3.Files**
 
 
 
@@ -82,25 +85,26 @@ Datasets have been taken from Kaggle
 
 
 
-**Libraries**
+## **Libraries**
 
 
 
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib
-* Seaborn
-* XGBoost (For XGBoost model)
-* Torch (For Method_2)
+* *Pandas*
+* *NumPy*
+* *Scikit-Learn*
+* *Matplotlib*
+* *Seaborn*
+* *XGBoost* (For XGBoost model)
+* *Torch* (For Method_2)
 
 
 
-**Platform and Language**
+## **Platform and Language**
+
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=fff) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=fff)
 
 
 
-* Python and Jupyter Notebook
 
 
 
